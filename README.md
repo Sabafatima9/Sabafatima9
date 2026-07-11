@@ -3,14 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9a8d4,50:f472b6,100:ec4899&height=260&section=header&text=Hey,%20I'm%20Saba%20Fatima&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%C2%B7%20IT%20Student%20%C2%B7%20Builder%20of%20Things&descAlignY=53&descSize=17" width="100%"/>
 
 <a href="https://github.com/Sabafatima9">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=1200&color=F472B6&center=true&vCenter=true&width=650&lines=Flutter+%26+Mobile+App+Developer;IT+Student+%40+Rawalpindi+Women+University;Firebase+%2B+MVVM+%2B+Clean+Architecture;IDEA+FEST+2025+Winner;Open+to+Work+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=1200&color=F472B6&center=true&vCenter=true&width=650&lines=Flutter+%26+Mobile+App+Developer;IT+Student;Firebase+%2B+MVVM+%2B+Clean+Architecture;WordPress+Developer;AI+Using+Python" alt="Typing SVG" />
 </a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-F472B6?style=for-the-badge&labelColor=0B1120&logo=vercel&logoColor=F472B6" />
-<img src="https://img.shields.io/badge/LOCATION-Rawalpindi,%20Pakistan-EC4899?style=for-the-badge&labelColor=0B1120&logo=googlemaps&logoColor=EC4899" />
-
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Sabafatima9&label=PROFILE+VIEWS&color=0B1120&style=for-the-badge" />
@@ -32,11 +26,11 @@
 
 I love turning ideas into clean, functional, and user-friendly applications. My primary focus is Flutter, where I enjoy building modern mobile apps with clean architecture and intuitive UI. I also build responsive WordPress websites and am currently exploring the exciting world of Artificial Intelligence with Python. Always learning, always building.
 
-🔭 &nbsp;I'm currently working on **Flutter apps with Firebase & clean architecture**
-🌱 &nbsp;I'm currently learning **AI, Machine Learning & Python**
-👯 &nbsp;I'm looking to collaborate on **Flutter, Firebase & AI-based Projects**
-🤔 &nbsp;I'm looking for help with **Advanced Flutter Development & Machine Learning**
-💬 &nbsp;Ask me about **Flutter, Dart, Firebase, WordPress**
+🔭 &nbsp;I'm currently working on **Flutter apps with Firebase & clean architecture**<br/>
+🌱 &nbsp;I'm currently learning **AI, Machine Learning & Python**<br/>
+👯 &nbsp;I'm looking to collaborate on **Flutter, Firebase & AI-based Projects**<br/>
+🤔 &nbsp;I'm looking for help with **Advanced Flutter Development & Machine Learning**<br/>
+💬 &nbsp;Ask me about **Flutter, Dart, Firebase, WordPress**<br/>
 ⚡ &nbsp;Fun fact: **Always learning, always building.**
 
 <br/>
@@ -82,13 +76,11 @@ A **Flutter-based safety application** built with clean **MVVM architecture**, o
 </div>
 
 <a href="https://github.com/Sabafatima9/Smart_Community_Safety_App"><img src="https://img.shields.io/badge/View%20Code-F472B6?style=for-the-badge&logo=github&logoColor=0B1120" /></a>
-<img src="https://img.shields.io/badge/Live%20Demo-Not%20Available-1a1a2e?style=for-the-badge" />
+
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-
-<br/>
 
 ## 🛠️ Tech Stack
 
