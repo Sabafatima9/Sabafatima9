@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9a8d4,50:f472b6,100:ec4899&height=260&section=header&text=Hey,%20I'm%20Saba%20Fatima&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%C2%B7%20IT%20Student%20%C2%B7%20Builder%20of%20Things&descAlignY=53&descSize=17" width="100%"/>
 
 <a href="https://github.com/Sabafatima9">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=1200&color=F472B6&center=true&vCenter=true&width=650&lines=Flutter+%26+Mobile+App+Developer;IT+Student;Firebase+%2B+MVVM+%2B+Clean+Architecture;WordPress+Developer;AI+Using+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=1200&color=F472B6&center=true&vCenter=true&width=750&lines=Flutter+%26+Mobile+App+Developer;IT+Student;Firebase+%2B+MVVM+%2B+Clean+Architecture;WordPress+Developer;AI+%26+Machine+Learning+with+Python;Generative+AI+%7C+LLMs+%7C+NLP" alt="Typing SVG" />
 </a>
 <br/><br/>
 
@@ -38,6 +38,31 @@ I love turning ideas into clean, functional, and user-friendly applications. My 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="300"/>
 </div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+
+<br/>
+
+## 🧠 AI & Machine Learning Journey
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320"/>
+</div>
+
+Alongside Flutter, I'm actively diving into **AI, Machine Learning & Deep Learning with Python** — learning the fundamentals, experimenting with real datasets, and building something in Python almost every day.
+
+🐍 &nbsp;**Daily Python practice** — a new script, tool, or mini-project most days<br/>
+🧪 &nbsp;Exploring **Machine Learning & Deep Learning** concepts and workflows<br/>
+📊 &nbsp;Working with **NumPy, pandas & TensorFlow** for data & model building<br/>
+📓 &nbsp;Practicing in **Jupyter Notebooks** — data analysis, visualization, OOP in Python<br/>
+🖥️ &nbsp;Recently built **HireLens** — a Streamlit-based ATS resume screening web app (JD-match scoring, bulk CV screening, analytics dashboard, automated email workflows)<br/>
+🎯 &nbsp;Goal: blend AI/ML into future Flutter + Firebase projects
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
 <br/>
 
@@ -99,6 +124,9 @@ A **Flutter-based safety application** built with clean **MVVM architecture**, o
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" />
