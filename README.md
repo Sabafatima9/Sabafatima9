@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9a8d4,50:f472b6,100:ec4899&height=260&section=header&text=Hey,%20I'm%20Saba%20Fatima&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%C2%B7%20IT%20Student%20%C2%B7%20Builder%20of%20Things&descAlignY=53&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9a8d4,50:f472b6,100:ec4899&height=260&section=header&text=Hey,%20I'm%20Saba%20Fatima&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Flutter%20%7C%20Python%20%7C%20AI%20%7C%20ML%20%7C%20IT%20Student&descAlignY=53&descSize=17" width="100%"/>
 
 <a href="https://github.com/Sabafatima9">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=1200&color=F472B6&center=true&vCenter=true&width=750&lines=Flutter+%26+Mobile+App+Developer;IT+Student;Firebase+%2B+MVVM+%2B+Clean+Architecture;WordPress+Developer;AI+%26+Machine+Learning+with+Python;Generative+AI+%7C+LLMs+%7C+NLP" alt="Typing SVG" />
