@@ -110,14 +110,13 @@ I'm an IT student with two big passions: **Flutter app development** and **AI �
 
 ### 🛡️ Smart Community Safety App
 
-A **Flutter-based safety application** built with clean **MVVM architecture**, offering real-time incident reporting, safety maps, SOS alerts, and offline-first reliability for community protection. *(Next milestone: adding AI-powered image verification for incident reports using Computer Vision.)*
+A **Flutter-based safety application** built with clean **MVVM architecture**, offering real-time incident reporting, safety maps, SOS alerts, and offline-first reliability for community protection.
 
 **✨ Highlights**
 - 🔐 Firebase Authentication & Firestore backend
 - 📴 Offline-first storage with Hive / SQLite
 - 📍 GPS-based incident reporting & live safety maps
 - 🆘 One-tap SOS alerts & real-time community updates
-- 👁️ *Planned:* AI/Computer Vision-based photo verification for reported incidents
 
 **Stack**
 
@@ -128,7 +127,6 @@ A **Flutter-based safety application** built with clean **MVVM architecture**, o
 | Auth & Database | Firebase Authentication, Firestore |
 | Offline Storage | Hive / SQLite |
 | Location Services | Geolocation, Maps API |
-| AI (upcoming) | OpenCV / TensorFlow for image verification |
 
 **App Screenshots**
 
