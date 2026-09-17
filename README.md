@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9a8d4,50:f472b6,100:ec4899&height=260&section=header&text=Hey,%20I'm%20Saba%20Fatima&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Flutter%20%7C%20Python%20%7C%20AI%20%7C%20ML%20%7C%20IT%20Student&descAlignY=53&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9a8d4,50:f472b6,100:ec4899&height=260&section=header&text=Hey,%20I'm%20Saba%20Fatima&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Flutter%20%7C%20AI%20%2F%20Computer%20Vision%20%7C%20Python%20%7C%20ML%20%7C%20IT%20Student&descAlignY=53&descSize=15" width="100%"/>
 
 <a href="https://github.com/Sabafatima9">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=1200&color=F472B6&center=true&vCenter=true&width=750&lines=Flutter+%26+Mobile+App+Developer;IT+Student;Firebase+%2B+MVVM+%2B+Clean+Architecture;WordPress+Developer;AI+%26+Machine+Learning+with+Python;Generative+AI+%7C+LLMs+%7C+NLP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=1200&color=F472B6&center=true&vCenter=true&width=750&lines=Flutter+%26+Mobile+App+Developer;AI+%2F+Computer+Vision+Enthusiast;Firebase+%2B+MVVM+%2B+Clean+Architecture;OpenCV+%7C+CNNs+%7C+Image+Processing;Generative+AI+%7C+LLMs+%7C+NLP;WordPress+Developer" alt="Typing SVG" />
 </a>
 <br/><br/>
 
@@ -24,19 +24,39 @@
 
 ## 🧭 About Me
 
-I love turning ideas into clean, functional, and user-friendly applications. My primary focus is Flutter, where I enjoy building modern mobile apps with clean architecture and intuitive UI. I also build responsive WordPress websites and am currently exploring the exciting world of Artificial Intelligence with Python. Always learning, always building.
+I'm an IT student with two big passions: **Flutter app development** and **AI — Machine Learning, Deep Learning & Computer Vision**. I build modern, clean-architecture Flutter apps with Firebase, and on the AI side, I'm deep into how machines learn from data and "see" the world — training models, working with neural networks, and experimenting with vision pipelines using Python. My long-term goal is to fuse both worlds: **smart, AI-powered Flutter apps**.
 
-🔭 &nbsp;I'm currently working on **Flutter apps with Firebase & clean architecture**<br/>
-🌱 &nbsp;I'm currently learning **AI, Machine Learning & Python**<br/>
-👯 &nbsp;I'm looking to collaborate on **Flutter, Firebase & AI-based Projects**<br/>
-🤔 &nbsp;I'm looking for help with **Advanced Flutter Development & Machine Learning**<br/>
-💬 &nbsp;Ask me about **Flutter, Dart, Firebase, WordPress**<br/>
-⚡ &nbsp;Fun fact: **Always learning, always building.**
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**📱 Flutter / App Dev**
+- 🔭 Building **Flutter apps with Firebase & clean (MVVM) architecture**
+- 📴 Offline-first apps using Hive / SQLite
+- 🌐 Responsive **WordPress** websites
+
+</td>
+<td valign="top" width="50%">
+
+**🧠 AI / ML / DL / Computer Vision**
+- 🌱 Learning **Machine Learning & Deep Learning** with Python
+- 👁️ Exploring **Computer Vision** — image classification, object detection, OpenCV pipelines
+- 🧪 Practicing **CNNs, NumPy, pandas, TensorFlow, scikit-learn**
+
+</td>
+</tr>
+</table>
+
+👯 &nbsp;Looking to collaborate on **Flutter + AI/ML/Computer Vision powered apps**<br/>
+🤔 &nbsp;Looking for help with **Advanced Computer Vision & Model Deployment**<br/>
+💬 &nbsp;Ask me about **Flutter, Dart, Firebase, Machine Learning, Deep Learning, Computer Vision, OpenCV**<br/>
+⚡ &nbsp;Fun fact: **I want to give my Flutter apps "eyes" and a "brain" using AI.**
 
 <br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="300"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="280"/>
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="280"/>
 </div>
 
 <br/>
@@ -45,20 +65,40 @@ I love turning ideas into clean, functional, and user-friendly applications. My 
 
 <br/>
 
-## 🧠 AI & Machine Learning Journey
+## 🧠 AI • Machine Learning • Deep Learning • Computer Vision
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
 </div>
 
-Alongside Flutter, I'm actively diving into **AI, Machine Learning & Deep Learning with Python** — learning the fundamentals, experimenting with real datasets, and building something in Python almost every day.
+<p align="center"><i>Learning how machines learn, think & <b>see</b> — one model at a time 🤖👁️</i></p>
 
-🐍 &nbsp;**Daily Python practice** — a new script, tool, or mini-project most days<br/>
-🧪 &nbsp;Exploring **Machine Learning & Deep Learning** concepts and workflows<br/>
-📊 &nbsp;Working with **NumPy, pandas & TensorFlow** for data & model building<br/>
-📓 &nbsp;Practicing in **Jupyter Notebooks** — data analysis, visualization, OOP in Python<br/>
-🖥️ &nbsp;Recently built **HireLens** — a Streamlit-based ATS resume screening web app (JD-match scoring, bulk CV screening, analytics dashboard, automated email workflows)<br/>
-🎯 &nbsp;Goal: blend AI/ML into future Flutter + Firebase projects
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🌱 Machine Learning & Deep Learning**
+- Core **ML/DL concepts**: regression, classification, neural networks
+- Building & training models with **TensorFlow, Keras & scikit-learn**
+- Data work with **NumPy, pandas** + analysis in **Jupyter Notebooks**
+- 🖥️ Built **HireLens** — Streamlit ATS resume screener (JD-match scoring, bulk CV screening, analytics dashboard, auto emails)
+
+</td>
+<td valign="top" width="50%">
+
+**👁️ Computer Vision**
+- **Image processing** — filtering, transformations, feature extraction
+- **CNNs** for image classification
+- **Object detection** basics (YOLO, Haar cascades)
+- Real-time image & video pipelines with **OpenCV**
+
+</td>
+</tr>
+</table>
+
+🐍 &nbsp;**Daily Python practice** — a new script, model, or mini-project most days<br/>
+🎯 &nbsp;**Goal:** fuse **AI / ML / Computer Vision** with **Flutter + Firebase** to build smart, vision-powered mobile apps
 
 <br/>
 
@@ -70,13 +110,14 @@ Alongside Flutter, I'm actively diving into **AI, Machine Learning & Deep Learni
 
 ### 🛡️ Smart Community Safety App
 
-A **Flutter-based safety application** built with clean **MVVM architecture**, offering real-time incident reporting, safety maps, SOS alerts, and offline-first reliability for community protection.
+A **Flutter-based safety application** built with clean **MVVM architecture**, offering real-time incident reporting, safety maps, SOS alerts, and offline-first reliability for community protection. *(Next milestone: adding AI-powered image verification for incident reports using Computer Vision.)*
 
 **✨ Highlights**
 - 🔐 Firebase Authentication & Firestore backend
 - 📴 Offline-first storage with Hive / SQLite
 - 📍 GPS-based incident reporting & live safety maps
 - 🆘 One-tap SOS alerts & real-time community updates
+- 👁️ *Planned:* AI/Computer Vision-based photo verification for reported incidents
 
 **Stack**
 
@@ -87,6 +128,7 @@ A **Flutter-based safety application** built with clean **MVVM architecture**, o
 | Auth & Database | Firebase Authentication, Firestore |
 | Offline Storage | Hive / SQLite |
 | Location Services | Geolocation, Maps API |
+| AI (upcoming) | OpenCV / TensorFlow for image verification |
 
 **App Screenshots**
 
@@ -102,7 +144,6 @@ A **Flutter-based safety application** built with clean **MVVM architecture**, o
 
 <a href="https://github.com/Sabafatima9/Smart_Community_Safety_App"><img src="https://img.shields.io/badge/View%20Code-F472B6?style=for-the-badge&logo=github&logoColor=0B1120" /></a>
 
-
 <br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
@@ -113,25 +154,36 @@ A **Flutter-based safety application** built with clean **MVVM architecture**, o
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="280"/>
 </div>
 
+**📱 Mobile & App Development**
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+
+**🧠 AI / Computer Vision / Machine Learning**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
+
+**💻 Languages, Web & Tools**
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
